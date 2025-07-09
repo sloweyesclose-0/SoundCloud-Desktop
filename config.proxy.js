@@ -48,5 +48,10 @@ module.exports = [
         url: 'socks://soundcloud-proxy-bypass.loli-xxx.baby:9999',
         name: 'Tor Proxy [Reserve-9]',
         dontCheck: true,
+    },   
+    {   
+        url: '185.24.109.119:8000:kA8z55:a8fKvW',
+        name: 'Tor Proxy [Reserve-9]',
+        dontCheck: true,
     },
 ]
